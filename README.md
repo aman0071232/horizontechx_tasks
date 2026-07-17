@@ -1,4 +1,4 @@
-# 🚀 CodeAlpha Machine Learning Internship Projects
+# 🚀 horizontechx Machine Learning Internship Projects
 
 <div align="center">
 
@@ -262,7 +262,7 @@ Through these projects I improved my understanding of:
 
 # 🎯 Internship
 
-## CodeAlpha Machine Learning Internship
+## horizontechx Machine Learning Internship
 
 📅 Duration: June 2026 - July 2026
 
